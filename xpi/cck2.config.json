@@ -65,7 +65,7 @@
       "value": false
     },
     "browser.privatebrowsing.autostart": {
-      "value": true
+      "value": false
     },
     "browser.urlbar.trimURLs": {
       "value": false
