@@ -73,14 +73,8 @@
     "network.cookie.cookieBehavior": {
       "value": 3
     },
-    "network.cookie.life": {
-      "value": 2
-    },
     "network.http.referer.spoofSource": {
       "value": true
-    },
-    "network.http.referer.trimmingPolicy": {
-      "value": 2
     },
     "privacy.clearOnShutdown.cache": {
       "value": true
@@ -116,12 +110,6 @@
       "value": true
     },
     "privacy.trackingprotection.enabled": {
-      "value": true
-    },
-    "privacy.trackingprotection.pbmode.enabled": {
-      "value": true
-    },
-    "privacy.trackingprotection.ui.enabled": {
       "value": true
     },
     "security.mixed_content.block_display_content": {
