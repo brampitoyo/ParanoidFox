@@ -115,9 +115,6 @@
     "privacy.trackingprotection.enabled": {
       "value": true
     },
-    "privacy.trackingprotection.pbmode.enabled": {
-      "value": true
-    },
     "privacy.trackingprotection.ui.enabled": {
       "value": true
     },
