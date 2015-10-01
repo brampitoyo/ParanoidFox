@@ -1,4 +1,4 @@
-# SecureFox
+# ParanoidFox
 A Firefox add-on designed for maximum privacy and security
 
 Made with Mike Kaply’s [CCK2](https://mike.kaply.com/cck2/).
