@@ -73,9 +73,6 @@
     "network.cookie.cookieBehavior": {
       "value": 3
     },
-    "network.cookie.life": {
-      "value": 2
-    },
     "network.http.referer.spoofSource": {
       "value": true
     },
