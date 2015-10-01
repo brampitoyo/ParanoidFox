@@ -71,7 +71,7 @@
       "value": false
     },
     "network.cookie.cookieBehavior": {
-      "value": 2
+      "value": 3
     },
     "network.cookie.life": {
       "value": 2
