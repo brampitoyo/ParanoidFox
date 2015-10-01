@@ -1,0 +1,6 @@
+resource paranoidfox resources/
+manifest cck2/chrome.manifest
+
+component {6ea5b831-5cdc-d044-abef-87876d261d2a} components/CCK2Service.js
+contract @kaply.com/cck2-paranoidfox-service;1 {6ea5b831-5cdc-d044-abef-87876d261d2a}
+category profile-after-change CCK2paranoidfoxService @kaply.com/cck2-paranoidfox-service;1
