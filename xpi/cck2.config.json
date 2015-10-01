@@ -79,9 +79,6 @@
     "network.http.referer.spoofSource": {
       "value": true
     },
-    "network.http.referer.trimmingPolicy": {
-      "value": 2
-    },
     "privacy.clearOnShutdown.cache": {
       "value": true
     },
