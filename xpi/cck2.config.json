@@ -13,21 +13,21 @@
     "filename": "paranoidfox",
     "hide": true
   },
-  "lockHomePage": true,
-  "noWelcomePage": true,
-  "noUpgradePage": true,
+  "lockHomePage": false,
+  "noWelcomePage": false,
+  "noUpgradePage": false,
   "removeDeveloperTools": false,
-  "removeSetDesktopBackground": true,
-  "removeSafeModeMenu": true,
-  "noAddons": true,
-  "noAddonCompatibilityCheck": true,
-  "removeSmartBookmarks": true,
-  "removeDefaultBookmarks": true,
-  "dontCheckDefaultBrowser": true,
+  "removeSetDesktopBackground": false,
+  "removeSafeModeMenu": false,
+  "noAddons": false,
+  "noAddonCompatibilityCheck": false,
+  "removeSmartBookmarks": false,
+  "removeDefaultBookmarks": false,
+  "dontCheckDefaultBrowser": false,
   "dontUseDownloadDir": true,
   "disableFormFill": true,
   "dontRememberPasswords": true,
-  "disableSync": true,
+  "disableSync": false,
   "removeSnippets": true,
   "disableWebApps": true,
   "disableHello": true,
@@ -59,7 +59,7 @@
   "defaultSearchEngine": "DuckDuckGo",
   "preferences": {
     "browser.newtabpage.enabled": {
-      "value": false
+      "value": true
     },
     "browser.newtabpage.enhanced": {
       "value": false
