@@ -70,6 +70,9 @@
     "browser.urlbar.trimURLs": {
       "value": false
     },
+    "media.peerconnection.enabled": {
+      "value": false
+    },
     "network.cookie.cookieBehavior": {
       "value": 3
     },
@@ -123,6 +126,9 @@
     },
     "urlclassifier.trackingWhitelistTable": {
       "value": "test-trackwhite-simple"
+    },
+    "webgl.disabled": {
+      "value": true
     }
   }
 }
